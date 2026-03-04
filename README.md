@@ -34,20 +34,6 @@ Dataset size:
 - 398 observations
 - 9 features
 
-## Project Structure
-
-correlation_analysis
-│
-├ dataset
-│   └ auto_mpg_dataset.csv
-│
-├ plots
-│   ├ weight_vs_mpg_scatter.png
-│   └ weight_vs_mpg_regression.png
-│
-├ correlation_analysis.ipynb
-└ README.md
-
 ## Exploratory Data Analysis
 
 The analysis begins with data inspection and cleaning.
