@@ -98,20 +98,6 @@ The analysis shows that:
 - SciPy
 - Google Colab
 
-## How to Run the Project
-
-Clone the repository:
-
-git clone https://github.com/your_username/correlation_analysis.git
-
-Install required libraries:
-
-pip install pandas numpy matplotlib seaborn scipy
-
-Run the notebook:
-
-correlation_analysis.ipynb
-
 ## Future Improvements
 
 Possible extensions of this analysis:
